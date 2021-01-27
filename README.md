@@ -39,6 +39,7 @@ readings in a Visual-Inertial Odometry framework.
 <p align="center">
   <img width="300" height="300" src="https://user-images.githubusercontent.com/47057759/105985611-f74abd80-609b-11eb-8ebb-63ddc0f83bba.png">
 </p>
+
 ## Extended KALMAN FILTER
 <p align="center">
   <img width="500" height="300" src="https://user-images.githubusercontent.com/47057759/105985300-94592680-609b-11eb-8f37-dfc648e11d0b.png">
@@ -46,6 +47,7 @@ readings in a Visual-Inertial Odometry framework.
 The extended Kalman filter algorithm is similar to the Kalman filter algorithm except the linear functions in Kalman filter are replaced by their non-linear generalizations in EKF.
 
 ## Structure from Motion
+
 Structure from motion is a special technique in computer vision for reconstruction
 three-dimensional models from a sequence of two-dimensional images by analyzing the
 motion between these images. This method allows computers to estimate distances to
@@ -59,16 +61,19 @@ Given: m images of n fixed 3D points
 Problem: estimate 𝑚  projection matrices 𝑃_𝑖 and 𝑛 3D points 𝑋_𝑗 from the 𝑚𝑛 correspondences 𝑋_𝑖𝑗 <br>
 Fundamental matrix maps from a point in one image to a line in the other 𝐼^′=𝐹𝑥 and 𝐼=𝐹^𝑇 𝑥′
 If x and x’ correspond to the same 3d point X:  𝑥^′𝑇 𝐹𝑥=0
+
 ### Incremental SfM
 
 <p align="center">
   <img width="500" height="100" src="https://user-images.githubusercontent.com/47057759/105987774-0b43ee80-609f-11eb-94a6-1c4487ed53d4.png">
 </p>
+
 ## Extended Kalman Filter Algorithm
 
 <p align="center">
   <img width="500" height="300" src="https://user-images.githubusercontent.com/47057759/105988072-6ece1c00-609f-11eb-901d-7f568ed5222c.png">
 </p>
+
 ## Results
 
 ## Conclusion & Future Works
