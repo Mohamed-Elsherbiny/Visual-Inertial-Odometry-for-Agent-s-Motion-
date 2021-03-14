@@ -75,7 +75,22 @@ If x and x’ correspond to the same 3d point X:  𝑥^′𝑇 𝐹𝑥=0
 </p>
 
 ## Results
+<p align="center">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/47057759/111087723-73517580-8523-11eb-9dc3-1ea8638f14a2.png">
+</p>
+
+<p align="center">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/47057759/111087758-a3991400-8523-11eb-8289-a50bdf3a77b5.png">
+</p>
 
 ## Conclusion & Future Works
 
 ## References
+[1] H. H.-A. Abanob EN. SOLIMAN, Fabien Bonardi and S. Bouchafa-Bruneau. Visual-inertial
+odometry for agent’s slam in challenging environments based-on kalman filters. 2020.<br>
+
+[2] P. L. P. S. W. Z. Cheng Yuan, Jizhou Lai and K. Huang. A novel fault-tolerant navigation and
+positioning method with stereo-camera/micro electro mechanical systems inertial measurement
+unit (mems-imu) in hostile environment. 20, 2018. <br>
+[3] S. M. Weiss. Vision based navigation for micro helicopters. Doctoral Thesis., 222, 2012. doi:
+https://doi.org/10.3929/ethz-a-007344020.
